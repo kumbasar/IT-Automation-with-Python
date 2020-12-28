@@ -3,3 +3,4 @@ IT Automation with Python
 
 ## Examples
 - Log CSV reporter
+- Daily Sync example
