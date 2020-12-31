@@ -7,3 +7,4 @@ IT Automation with Python
 - Employees' start date report
 - Manipulating Images
 - Interacting with Web Services
+- Automatically Generate a PDF and send it by Email
