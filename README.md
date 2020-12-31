@@ -6,3 +6,4 @@ IT Automation with Python
 - Daily Sync 
 - Employees' start date report
 - Scale and convert images
+- Interacting with Web Services
