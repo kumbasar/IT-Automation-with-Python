@@ -5,5 +5,5 @@ IT Automation with Python
 - Log CSV reporter
 - Daily Sync 
 - Employees' start date report
-- Scale and convert images
+- Manipulating Images
 - Interacting with Web Services
