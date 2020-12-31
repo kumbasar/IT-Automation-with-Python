@@ -12,6 +12,7 @@ from reportlab.lib import colors
 from reportlab.graphics.shapes import Drawing
 from reportlab.graphics.charts.piecharts import Pie
 
+
 def mail():
 
     body = """Hey there!
@@ -89,6 +90,7 @@ def generatePDF():
     report_chart.add(report_pie)
 
     report.build([report_title, report_table, report_chart])
+
 
 if __name__ == "__main__":
     # mail()

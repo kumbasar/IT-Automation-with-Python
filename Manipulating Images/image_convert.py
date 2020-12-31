@@ -27,4 +27,4 @@ def rotateResizeConvert(path, output, x=128, y=128, rotate=-90):
 if __name__ == "__main__":
     source = 'images'
     output = '/opt/icons'
-    rotateResizeConvert('images', '/opt/icons')
+    rotateResizeConvert(source, output)
